@@ -1,0 +1,27 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.bit
+*.ltx
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.gen/
+.Xil/
+*.xpr
+
+# ModelSim / QuestaSim
+work/
+transcript
+vsim.wlf
+
+# Icarus Verilog
+a.out
+*.vvp
+
+# OS
+.DS_Store
+Thumbs.db
